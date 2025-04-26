@@ -9,7 +9,7 @@ function App() {
 
       <ProfileCard
         image={profileImg}
-        name="정지아"
+        name="김동현"
         description="신소재를 사랑하는 개발자입니다."
       />
 
